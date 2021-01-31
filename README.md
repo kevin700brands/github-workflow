@@ -25,7 +25,7 @@ If you encountered any problems during push, simply read the instructions provid
 
 Straightforward push is not ideal like you used in basic projects. You have to be open minded to all scenarios you might encounter in the future. Problems, bugs, features, enhancements, and others. You have to think as wide as you can to keep track to any updates of your application. History is very important.
 
-1. Commit all changes:
+<b> 1. Commit all changes: </b>
 * `git add .`
 * `git commit -m "_what you're working on_"`
 
