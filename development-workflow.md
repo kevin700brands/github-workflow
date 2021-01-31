@@ -1,6 +1,6 @@
 # Development Workflow
 
-## React
+## What to use
 
 In React framework, this is used to manage the site and neatly structure things needed to run in old and modern browsers. They have also have a lot of support, community is great, and issues are properly addressed that is why I trust them over others. Building it in vanilla may take years and years until you'll finaly reach the latter level supposed to be tangible & achievable in short period of time. Medieval approach is not recommended in this stage of fast evolvement of technologies, Don't re-invent the wheel, use it and surge all benefits you can get.
 
