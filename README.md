@@ -1,10 +1,13 @@
-<p align="right">
+<p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="right">Github Workflow</h1>
+  <h1 align="center">Github Workflow</h1>
 </p>
+
+<br />
+<br />
 
 ## About The Github Workflow
 
