@@ -15,11 +15,9 @@ In React framework, this is used to manage the site and neatly structure things 
   </ol>
 </details>
 
-* Prepare the environment will be using, autoprefixer, optimizer, and the rest of the things needed for optimization. 
-* Build things scaleable, do blackbox tests if you extra time
+## Scaleable and Maintainable
 
-## Scaleable
-
+Making things scaleable will be crucial to all projects to lessen usage time in the future. Features, bugs, enhancements, and others will be properly addressed if this can be done. React will be the start.
 
 
 ## Tests
@@ -34,6 +32,12 @@ To gain confidence, its crucial to perform tests to the application to easily ma
 
 Make sure to use a library that has a intellectual developers that can support you along the way if bug issues occurred <b>not</br> that's it. Properly investigate what's happening under the hood and the last update has made. Anytime it can be deprecated and archived. Be careful for 1-2 years from now `back to zero revision`. Plan everything possible to keep your application to breath for years to come.
 
+* Autoprefixer, optimizer, and the rest of the things needed for optimization. 
+
 ## Real-Time Browser Testing
 
 The application must be confidently serve in IOS apps and could cover most of the browsers in the web. Build up confidence by doing automation tests but it can cost a lot of resources.
+
+## Conclusion
+
+This will be a good way of talking to the application, properly plan will lead to more success and less failures.
