@@ -1,7 +1,6 @@
 <p align="center">
   <h1 align="left">Github Workflow</h1>
 </p>
-<br />
 
 ## About The Github Workflow
 
