@@ -1,52 +1,10 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Github Workflow</h3
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -54,10 +12,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">About The Workflow</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -76,18 +31,47 @@
 </details>
 
 
+## About The Github Workflow
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+Our workflow in github for modular, progressive approach and readiness for the future huge project. The early we start, the better. In this section, you'll learn about the basics and foundation of getting used to `git` commands. There are a few we need to learn, others will come along the way.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## How to start a github project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+To start a project, you can simply create a sample files you want to push on Github. Once that is done, create a repository in Github and just follow their instructions for your first push. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+## Continous deployment
+
+You'll learn two types of levels you need to keep in mind, one for basic projects and another for enterprise project. 
+
+Basic project:
+* git add .
+* git commit -m "first commit"
+* git push
+
+If you encountered any problems during push, simply read the instructions provided. In any ways, that's the start of learning.
+
+Advanced projects:
+
+Straightforward push is not ideal like you used in basic projects. You have to be open minded to all scenarios you might encounter in the future. Problems, bugs, features, enhancements, and others. You have to think as wide as you can to keep track to any updates of your application. History is very important.
+
+How to push:
+* git add .
+* git commit -m "what you're working on"
+
+First, always commit your changes.
+
+* git checkout -b feature/name
+
+Make sure everytime you want to push something, create a branch of your own always. Don't just push in your `main` or `master` branch. And avoid hard editions or direct commits in your repo. E.g., adding files in `main` branch, add 1 line of code.
+
+* git checkout main 
+* git pull
+
+Once you're able to
+git checkout feature/name
+git add .
+git commmit -m "commit"
+git push
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
