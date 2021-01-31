@@ -3,7 +3,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="right">Github Workflow</h3
+  <h1 align="right">Github Workflow</h1>
 </p>
 
 ## About The Github Workflow
