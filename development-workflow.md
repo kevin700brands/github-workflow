@@ -8,7 +8,7 @@ In React framework, this is used to manage the site and neatly structure things 
   <summary>Navigation</summary>
   <ol>
     <li><a href="#scaleable">Scaleable</a></li>
-    <li><a href="#tests">Tests</a></li>
+    <li><a href="#automated-tests">Test</a></li>
     <li><a href="#libraries">Libraries</a></li>
     <li><a href="#real-time-browser-testing">Real-Time Browser Testing</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
@@ -20,9 +20,9 @@ In React framework, this is used to manage the site and neatly structure things 
 Making things scaleable will be crucial to all projects to lessen usage time in the future. Features, bugs, enhancements, and others will be properly addressed if this can be done. React will be the start.
 
 
-## Tests
+## Automated Test
 
-To gain confidence, its crucial to perform tests to the application to easily manage in years to come. It can also serve as bridge for other developers to see what's happening under the hood. It's highly proven that it can track bugs as soon as it occurs. However, this is only good for enterprise projects but its recommended to perform tests.
+To gain confidence, its crucial to perform tests to the application to easily manage in years to come. It can also serve as bridge for other developers to see what's happening under the hood. It's highly proven that it can catch bugs as soon as it occurs. However, this is only good for enterprise projects but its still recommended to perform tests.
 
 * Jest
 * React-Testing Library
