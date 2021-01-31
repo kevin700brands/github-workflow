@@ -31,7 +31,7 @@ Straightforward push is not ideal like you used in basic projects. You have to b
 
 First, always commit your changes.
 
-2. Make sure you have the latest files from `main` branch
+<b> 2. Make sure you have the latest files from `main` branch </b>
 * `git checkout -b feature/name`
 
 Make sure everytime you want to push something, create a branch of your own always. Don't just push in your `main` or `master` branch. And avoid hard editions or direct commits in your repo. E.g., adding files in `main` branch, add 1 line of code.
@@ -43,19 +43,19 @@ Make sure everytime you want to push something, create a branch of your own alwa
 
 Why pull main and commit changes from main? This is required to make sure you're ahead from `main` branch. 
 
-3). Merge your branch to main
+<b> 3). Merge your branch to main </b>
 
 * `git merge main _branch_`
 
 If there any conflict, make sure you fix it. To fix it, always read what the code is all about and what conflicted from other people's work. Talk to your team about it, or accept other people's incoming change. _You'll be familiar with this once you've encounter one_
 
-4). Push your branch
+<b> 4). Push your branch </b>
 
 * `git push` _if its your first time pushing your branch, read the instructions_
 
 Why not push directly to main? Just don't :) 
 
-5). Create a Pull Request, see it here [how to create a pull request](https://opensource.com/article/19/7/create-pull-request-github). _If you'll see a word says "Able to merge" then your branch is in best state. Congrats!_
+<b> 5). Create a Pull Request </b>, see it here [how to create a pull request](https://opensource.com/article/19/7/create-pull-request-github). _If you'll see a word says "Able to merge" then your branch is in best state. Congrats!_
 
 ## Conclusion
 
