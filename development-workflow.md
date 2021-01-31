@@ -30,7 +30,7 @@ To gain confidence, its crucial to perform tests to the application to easily ma
 
 ## Libraries
 
-Make sure to use a library that has a intellectual developers that can support you along the way if bug issues occurred <b>not</br> that's it. Properly investigate what's happening under the hood and the last update has made. Anytime it can be deprecated and archived. Be careful for 1-2 years from now `back to zero revision`. Plan everything possible to keep your application to breath for years to come.
+Make sure to use a library that has a intellectual developers that can support you along the way if bug issues occurred <b>not</b> that's it. Properly investigate what's happening under the hood and the last update has made. Anytime it can be deprecated and archived. Be careful for 1-2 years from now `back to zero revision`. Plan everything possible to keep your application to breath for years to come.
 
 * Autoprefixer, optimizer, and the rest of the things needed for optimization. 
 
