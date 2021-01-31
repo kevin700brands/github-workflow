@@ -31,12 +31,12 @@ Lastly, the quality, make sure everything are in place.
 
 ## Revisions
 
-<b>This will be the output</b>, before it should be submitted, the things needed/necessary for the `first revision` must be in the page. The effects, and the latter will be in the 2nd revision. 3rd revision will be the final in normal cases.
+<b>This will be the output</b>, before it should be submitted, the things needed/necessary for the `first revision` must be in the page. The effects, and the latter will be included in the first revision if possible but not required. 2nd revision will be the effects and closing of the project. 3rd revision will be the final in normal cases.
 
 * Submitting a revision must be finalize first and stagely listed in ASANA for future reference
 * No previous changes should pop up
 
-
+All revisions, editions, and fixes will be included in the revision. Any changes will be thoroughly reviewed and presented.
 
 ## Conclusion
 
