@@ -1,12 +1,6 @@
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h1 align="center">Github Workflow</h1>
+  <h1 align="left">Github Workflow</h1>
 </p>
-
-<br />
 <br />
 
 ## About The Github Workflow
@@ -62,8 +56,7 @@ If there any conflict, make sure you fix it. To fix it, always read what the cod
 
 Why not push directly to main? Just don't :) 
 
-5). Create a Pull Request, see it here [how to create a pull request](https://opensource.com/article/19/7/create-pull-request-github)
-If you'll see a word says "Able to merge" then your branch is in best state. Congrats!
+5). Create a Pull Request, see it here [how to create a pull request](https://opensource.com/article/19/7/create-pull-request-github). _If you'll see a word says "Able to merge" then your branch is in best state. Congrats!_
 
 ## Conclusion
 
