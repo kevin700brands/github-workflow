@@ -43,35 +43,38 @@ To start a project, you can simply create a sample files you want to push on Git
 
 You'll learn two types of levels you need to keep in mind, one for basic projects and another for enterprise project. 
 
-Basic project:
+### Basic project:
 * git add .
 * git commit -m "first commit"
 * git push
 
 If you encountered any problems during push, simply read the instructions provided. In any ways, that's the start of learning.
 
-Advanced projects:
+### Advanced projects:
 
 Straightforward push is not ideal like you used in basic projects. You have to be open minded to all scenarios you might encounter in the future. Problems, bugs, features, enhancements, and others. You have to think as wide as you can to keep track to any updates of your application. History is very important.
 
-How to push:
-* git add .
-* git commit -m "what you're working on"
+1. Commit all changes:
+* `git add .`
+* `git commit -m "_what you're working on_"`
 
 First, always commit your changes.
 
-* git checkout -b feature/name
+2. Make sure you have the latest files from `main` branch
+* `git checkout -b feature/name`
 
 Make sure everytime you want to push something, create a branch of your own always. Don't just push in your `main` or `master` branch. And avoid hard editions or direct commits in your repo. E.g., adding files in `main` branch, add 1 line of code.
 
-* git checkout main 
-* git pull
+* `git checkout main` 
+* `git pull`
+* `git add .`
+* `git commmit -m "_commit_"`
 
-Once you're able to
-git checkout feature/name
-git add .
-git commmit -m "commit"
-git push
+Why pull main and commit changes from main? This is required to make sure you're ahead from `main` branch. 
+
+3). Merge your branch to main
+
+* git merge main _yourbranch_
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
