@@ -11,15 +11,15 @@ First stage will be crucial, I will be building the mockup but before I start, I
 * Make sure everything is clear because everyone is occupied <br/>
 * Provide an ETA or achieve the given ETA <br/>
 
-<b>Build the mockup without effects, tests, or others unrelated to the project, the way it looks should be presented without question. </b>
+Build the mockup without <b>effects</b>, <b>tests</b>, or others <b>unrelated</b> to the project, the way it looks should be presented without question.
 
 ## Turn around Time
 
 Once the mock up is done, finalize the ETA or if given. This section will be simple but crucial, turn around time must be quick and efficient. 
 
-1). Decide about the tool <br/>
-2). Make sure everything is scalable and is not fragile <br/>
-3). Doesn't need to be hasty if quality will be sacrificed <br/>
+* Decide about the tool <br/>
+* Make sure everything is scalable and is not fragile <br/>
+* Doesn't need to be hasty if quality will be sacrificed <br/>
 
 ## Quality
 
@@ -35,7 +35,8 @@ Lastly, the quality, make sure everything are in place.
 
 * Submitting a revision must be finalize first and stagely listed in ASANA for future reference
 * No previous changes should pop up
-*  
+
+
 
 ## Conclusion
 
