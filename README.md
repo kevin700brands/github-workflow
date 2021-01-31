@@ -15,9 +15,9 @@ To start a project, you can simply create a sample files you want to push on Git
 You'll learn two types of levels you need to keep in mind, one for basic projects and another for enterprise project. 
 
 ### Basic project:
-* git add .
-* git commit -m "first commit"
-* git push
+```git add .
+git commit -m "first commit"
+git push```
 
 If you encountered any problems during push, simply read the instructions provided. In any ways, that's the start of learning.
 
